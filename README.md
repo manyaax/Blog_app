@@ -56,6 +56,12 @@ This project demonstrates use of Django models, views, templates, authentication
 ### Create Post Page
 ![Create Post](screenshots/createpost.png)](screenshots/createpost.png)
 
+### Search Post 
+![Search post](screenshots/searchpost.png)](screenshots/searchpost.png)
+
+### View Post
+![View Post](screenshots/viewpost.png)](screenshots/viewpost.png)
+
 
 ---
 
