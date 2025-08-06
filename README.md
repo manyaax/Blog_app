@@ -56,7 +56,6 @@ This project demonstrates use of Django models, views, templates, authentication
 ### Create Post Page
 ![Create Post](screenshots/createpost.png)
 
-_(You need to take 2 screenshots and save them in a folder named `screenshots/` in your project directory)_
 
 ---
 
