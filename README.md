@@ -51,10 +51,10 @@ This project demonstrates use of Django models, views, templates, authentication
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/homepage.png)](screenshots/homepage.png)
 
 ### Create Post Page
-![Create Post](screenshots/createpost.png)
+![Create Post](screenshots/createpost.png)](screenshots/createpost.png)
 
 
 ---
